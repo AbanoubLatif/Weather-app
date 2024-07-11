@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 30.8418,
+    "lat": 29.31
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 297.31,
+    "feels_like": 297.82,
+    "temp_min": 297.31,
+    "temp_max": 297.31,
+    "pressure": 1009,
+    "humidity": 78,
+    "sea_level": 1009,
+    "grnd_level": 1005
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 5.75,
+    "deg": 355,
+    "gust": 9.81
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1691890206,
+  "sys": {
+    "country": "EG",
+    "sunrise": 1691897016,
+    "sunset": 1691944785
+  },
+  "timezone": 10800,
+  "id": 361320,
+  "name": "Al Fayyum",
+  "cod": 200
+}
